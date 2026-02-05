@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Code. Debug. Repeat. <br>BTech CSE Student passionate about Web Development<br>Skilled in C, C++, Python & modern web tech<br>React | MongoDB | Bootstrap<br>
 
 
